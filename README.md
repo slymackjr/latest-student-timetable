@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/slymackjr/student-timetable">
+  <a href="https://github.com/slymackjr/latest-student-timetable">
     <h3 align="center">Student Online Timetable</h3>
   </a>
 
@@ -25,12 +25,12 @@
   <p align="center">
     Student Online Timetable is a system that bring students there daily schedules and important notices in there hands and in realtime without any conveniences about the information being out-dated.
     <br />
-    <a href="https://github.com/slymackjr/student-timetable"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/slymackjr/latest-student-timetable"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/slymackjr/student-timetable/issues">Report Bug</a>
+    <a href="https://github.com/slymackjr/latest-student-timetable/issues">Report Bug</a>
     ·
-    <a href="https://github.com/slymackjr/student-timetable/issues">Request Feature</a>
+    <a href="https://github.com/slymackjr/latest-student-timetable/issues">Request Feature</a>
   </p>
 </div>
 
@@ -99,7 +99,7 @@ This is an example of how you may give instructions on setting up your project l
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/slymackjr/student-timetable.git
+   git clone https://github.com/slymackjr/latest-student-timetable.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,7 +126,7 @@ This Online Timetable System can be used in universities , colleges and even sch
     - [ ] Swahili
     - [ ] English
 
-See the [open issues](https://https://github.com/slymackjr/student-timetable/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://https://github.com/slymackjr/latest-student-timetable/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +160,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Jofrey Nyamasheki - [https://twitter.com/slymackjr](https://x.com/slymack_w?t=naiyIend2MU_qg-Tm4jQgw&s=09)
-Project Link: [https://github.com/slymackjr/student-timetable](https://github.com/slymackjr/student-timetable)
+Project Link: [https://github.com/slymackjr/latest-student-timetable](https://github.com/slymackjr/latest-student-timetable)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,16 +183,16 @@ I would like to thank these wonderful tools that enabled me to make it all happe
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/slymackjr/student-timetable.svg?style=for-the-badge&color=4EA94B
-[contributors-url]: https://github.com/slymackjr/student-timetable/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/slymackjr/student-timetable.svg?style=for-the-badge
-[forks-url]: https://github.com/slymackjr/student-timetable/network/members
-[stars-shield]: https://img.shields.io/github/stars/slymackjr/student-timetable.svg?style=for-the-badge
-[stars-url]: https://github.com/slymackjr/student-timetable/stargazers
-[issues-shield]: https://img.shields.io/github/issues/slymackjr/student-timetable.svg?style=for-the-badge
-[issues-url]: https://github.com/slymackjr/student-timetable/issues
-[license-shield]: https://img.shields.io/github/license/slymackjr/student-timetable.svg?style=for-the-badge
-[license-url]: https://github.com/slymackjr/student-timetable/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/slymackjr/latest-student-timetable.svg?style=for-the-badge&color=4EA94B
+[contributors-url]: https://github.com/slymackjr/latest-student-timetable/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/slymackjr/latest-student-timetable.svg?style=for-the-badge
+[forks-url]: https://github.com/slymackjr/latest-student-timetable/network/members
+[stars-shield]: https://img.shields.io/github/stars/slymackjr/latest-student-timetable.svg?style=for-the-badge
+[stars-url]: https://github.com/slymackjr/latest-student-timetable/stargazers
+[issues-shield]: https://img.shields.io/github/issues/slymackjr/latest-student-timetable.svg?style=for-the-badge
+[issues-url]: https://github.com/slymackjr/latest-student-timetable/issues
+[license-shield]: https://img.shields.io/github/license/slymackjr/latest-student-timetable.svg?style=for-the-badge
+[license-url]: https://github.com/slymackjr/latest-student-timetable/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jofrey-nyamasheki-9bb8781ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 [product-screenshot]: screenshots/image1.png
