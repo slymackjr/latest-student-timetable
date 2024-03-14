@@ -110,7 +110,7 @@ This is an example of how you may give instructions on setting up your project l
 ## Deployed Project
 
 Check out the deployed version of this project:
-[Live Demo](https://your-vercel-project.vercel.app/)
+[Live Demo](https://latest-student-timetable.vercel.app/)
 
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="screenshots/image7.png" alt="Image 1" style="display: inline-block; max-width: 100%;">
