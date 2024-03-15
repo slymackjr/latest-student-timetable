@@ -7,14 +7,14 @@ function AdminNav({username,position,activeDashboard,activeNotices,activeProfile
   const [showBackToTop, setShowBackToTop] = useState(false);
   const defaultClasses = "";
 
-  useEffect(() => {
+  /* useEffect(() => {
     // Simulate content loading
     const loadingTimer = setTimeout(() => {
       setContentLoaded(true);
-    }, 500);
+    }, 100);
 
     return () => clearTimeout(loadingTimer);
-  }, []);
+  }, []); */
 
   useEffect(() => {
     const handleScroll = () => {
@@ -56,13 +56,13 @@ function AdminNav({username,position,activeDashboard,activeNotices,activeProfile
   return (
     <div className="container-fluid position-relative d-flex p-0">
       {/* Spinner */}
-      {!contentLoaded && (
+     {/*  {!contentLoaded && (
         <div className="show bg-dark position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
           <div className="spinner-border text-primary" style={{ width: "3rem", height: "3rem" }} role="status">
             <span className="sr-only">Loading...</span>
           </div>
         </div>
-      )}
+      )} */}
 
       {/* Sidebar */}
       <div className="sidebar pe-4 pb-3">
@@ -140,7 +140,7 @@ function AdminNav({username,position,activeDashboard,activeNotices,activeProfile
         {/* Navbar End */}
 
         {/* Main Content */}
-        {contentLoaded && children}
+        {children}
       </div>
       {/* Content End */}
 
